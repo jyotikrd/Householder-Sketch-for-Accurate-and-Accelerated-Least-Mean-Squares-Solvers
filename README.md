@@ -2,7 +2,7 @@
 
 **Paper Title:** Householder Sketch for Accurate and Accelerated Least-Mean-Squares Solvers
 
-**Authors:** Jyotikrishna Dass and Rabi Mahapatra, 
+**Authors:** Jyotikrishna Dass and Rabi Mahapatra 
 
 **Affiliation:** Dept. of Computer Science and Engineering, Texas A&M University
 
