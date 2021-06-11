@@ -7,7 +7,7 @@
 **Affiliation:** Dept. of Computer Science and Engineering, Texas A&M University
 
 
-- Please cite our above ICMl 2021 work when using the code
+- Please cite our above ICML 2021 work when using the code
 
 ==============================================================================
 
